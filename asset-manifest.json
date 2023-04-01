@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Filmup.git/static/css/main.4003c7a8.css",
+    "main.js": "/Filmup.git/static/js/main.2fcf4aa8.js",
+    "static/js/988.b1617f79.chunk.js": "/Filmup.git/static/js/988.b1617f79.chunk.js",
+    "index.html": "/Filmup.git/index.html",
+    "main.4003c7a8.css.map": "/Filmup.git/static/css/main.4003c7a8.css.map",
+    "main.2fcf4aa8.js.map": "/Filmup.git/static/js/main.2fcf4aa8.js.map",
+    "988.b1617f79.chunk.js.map": "/Filmup.git/static/js/988.b1617f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4003c7a8.css",
+    "static/js/main.2fcf4aa8.js"
+  ]
+}
