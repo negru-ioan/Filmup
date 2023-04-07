@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Filmup/static/css/main.84b8a8d5.css",
+    "main.css": "/Filmup/static/css/main.223987fe.css",
     "main.js": "/Filmup/static/js/main.41439329.js",
     "static/js/988.b1617f79.chunk.js": "/Filmup/static/js/988.b1617f79.chunk.js",
+    "static/media/bg.png": "/Filmup/static/media/bg.3d421b1b5682e1b67deb.png",
     "index.html": "/Filmup/index.html",
-    "main.84b8a8d5.css.map": "/Filmup/static/css/main.84b8a8d5.css.map",
+    "main.223987fe.css.map": "/Filmup/static/css/main.223987fe.css.map",
     "main.41439329.js.map": "/Filmup/static/js/main.41439329.js.map",
     "988.b1617f79.chunk.js.map": "/Filmup/static/js/988.b1617f79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b8a8d5.css",
+    "static/css/main.223987fe.css",
     "static/js/main.41439329.js"
   ]
 }
